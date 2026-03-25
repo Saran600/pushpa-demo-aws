@@ -3,5 +3,3 @@ welcome
 aws and devops
 
 morining
-
-devops
